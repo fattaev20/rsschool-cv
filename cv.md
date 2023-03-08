@@ -20,3 +20,36 @@ For me programming is not a technical skill that requires only maths and calcula
 Now my number one goal is to master my skills in this field and maybe bring a world something that will make it even better place to live. However I won't be sad even if I spend my days just writing a code, cause I will always be happy knowing that my peice of code is is benefiting people and helping them to love better.
 
 *******
+
+### Skills:
+* HTML5 / CSS3  
+* JavaScript Basics  
+* Git / GitHub  
+* VS Code  
+* Adobe Photoshop  
+
+******
+
+### Piece of Code:
+This code is written for task "Reverse int" of stage#0 RS School:  
+*Given: number, your task is to implement function that reverse digits of this number.*
+
+*For example:*
+```js
+reverse(123); // 321
+reverse(233); // 332
+reverse(535); // 535
+reverse(95034); // 43059
+```  
+Solution:  
+
+```js
+function reverse(n) {
+    let numberStr = n.toString();
+    let reversedStr = numberStr.split('').reverse().join('');
+    let reversedNum = parseInt(reversedStr);
+    return reversedNum;
+}
+```
+
+******
