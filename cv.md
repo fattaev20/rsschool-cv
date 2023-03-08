@@ -53,3 +53,22 @@ function reverse(n) {
 ```
 
 ******
+
+### Courses:
+* The Odin Project (in progress)  
+* RS school. stage#0 (completed)  
+* OOP using C++ (in progress)  
+* Introduction to IT (completed)
+
+### Planning to study:
+* CS50 by Harvard University  
+* CS101 by MIT  
+
+******
+
+### Languages:
+* **Uzbek:** native  
+* **Russian:** advanced  
+* **English:** advanced (C1) 
+
+
